@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 I have learned web-development, both Frontend and Backend and have knowledge of HTML,CSS & Javascript, Jquery, ReactJs, Angular, Express, Node.js, Bootstrap, Nebula, MAterialize, Firebase, etc. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest) though to be honest, at the moment of writing this, I don't remember much of data science.
  Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
   
+   🧰 My Toolbox
   
  <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -66,6 +67,13 @@ I have learned web-development, both Frontend and Backend and have knowledge of 
   
   
   
-  
+  ---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAPTAINCOBRA&hide=java,html,css&theme=radical)](https://github.com/CAPTAINCOBRA/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAPTAINCOBRA&theme=radical)](https://github.com/CAPTAINCOBRA/github-readme-stats)
+
   
   
