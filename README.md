@@ -71,9 +71,9 @@ I have learned web-development, both Frontend and Backend and have knowledge of 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAPTAINCOBRA&hide=java,html,css&theme=radical)](https://github.com/CAPTAINCOBRA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAPTAINCOBRA&hide=java,html,css&theme=tokyonight)](https://github.com/CAPTAINCOBRA/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAPTAINCOBRA&theme=radical)](https://github.com/CAPTAINCOBRA/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAPTAINCOBRA&theme=tokyonight)](https://github.com/CAPTAINCOBRA/github-readme-stats)
 
   
   
