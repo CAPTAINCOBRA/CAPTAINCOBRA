@@ -60,7 +60,7 @@ I have learned web-development, both Frontend and Backend and have knowledge of 
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://cdn.worldvectorlogo.com/logos/js.svg" alt="JavaScript Logo" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/css.svg" alt="CSS Logo" width="50" height="50"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap.svg" alt="Bootstrap Logo" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="50" height="50"/>
 </p>
   
   
