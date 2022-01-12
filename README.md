@@ -65,7 +65,7 @@ I have learned web-development, both Frontend and Backend and have knowledge of 
   
   
   
-  I am currently a Software Design Engineer at Newgen Software and Aapiring to be a successful web developer with proficiency in Machine Learning techniques, Nodejs, Express,  Angular, React, angularJs, MySql, Ms sql, MongoDb etc. Currently, I am trying to be a better coder one project at a time
+  I am currently a Software Design Engineer at Newgen Software and Aspiring to be a successful web developer with proficiency in Machine Learning techniques, Nodejs, Express,  Angular, React, angularJs, MySql, Ms sql, MongoDb etc. Currently, I am trying to be a better coder one project at a time
   
   
   
